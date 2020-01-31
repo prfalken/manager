@@ -17,7 +17,7 @@ I’m Julien. I’ve been a System Engineer for 15 years and a Manager for 3 yea
 
 
 ## My principles
-**Managers are here to serve you**, not the other way around. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build opportunities in our team for non-managers to lead.
+**Managers are here to serve you** While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build opportunities in our team for non-managers to lead.
 
 **Check your Ego** Ego blocks and disrupts everything. I have deep respect with people who are able to check their Ego and operate with a high degree of humility. People should be able to admit their flaws, speak freely when they don’t know the answer to some technical problem, ask for help to others, explain how and why they failed.
 
