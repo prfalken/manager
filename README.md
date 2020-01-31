@@ -5,10 +5,7 @@
 > It was originally shared privately at Blablacar, now I'm leaving the company I'd like to share it publically.
 
 ## About me
-I’m Julien
-I’ve been a System Engineer for 15 years and a Manager for 2 years
-I have a wife and 2 kids
-I like playing music and Crossfit.
+I’m Julien. I’ve been a System Engineer for 15 years and a Manager for 2 years .I have a wife and 2 kids, I like playing music and Crossfit.
 
 ## My job
 * Responsible for the Foundations team at Blablacar
