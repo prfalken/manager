@@ -74,5 +74,3 @@ I work a bit on the weekends. This is my choice. I do not expect that you are go
 ### Show up to meetings 
 When you’re invited to a meeting, and unless you have a very good reason, be there on time. You will then have time to argue that your presence is not necessary and you won’t be invited again.
 
-#blablacar
-
