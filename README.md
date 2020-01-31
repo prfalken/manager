@@ -2,7 +2,7 @@
 
 > The following is a user guide for me and how I work as a manager.
 > My intent is to accelerate our working relationship with this document.
-> It was originally shared privately at Blablacar, now I'm leaving the company I'd like to share it publically.
+> It was originally shared privately at Blablacar, now I'm leaving the company I'd like to share it publicly.
 
 ## About me
 I’m Julien. I’ve been a System Engineer for 15 years and a Manager for 3 years. I have a wife and 2 kids, I like playing music and Crossfit.
