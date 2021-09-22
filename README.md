@@ -2,19 +2,6 @@
 
 > The following is a user guide for me and how I work as a manager.
 > My intent is to accelerate our working relationship with this document.
-> It was originally shared privately at Blablacar, now I'm leaving the company I'd like to share it publicly.
-
-## About me
-I’m Julien. I’ve been a System Engineer for 15 years and a Manager for 3 years. I have a wife and 2 kids, I like playing music and Crossfit.
-
-## My job
-* Responsible for the Foundations team at Blablacar
-* Help VP of Engineering define the company’s tech vision
-* Collect and share context from across the company
-* Make sure our team is all aligned and pushing in the same direction.
-* Build budget, purchase and negotiate contracts  of the infrastructure, platform and tools
-* Attract, hire, retain and grow high performing people
-
 
 ## My principles
 **Managers are here to serve you** While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build opportunities in our team for non-managers to lead.
