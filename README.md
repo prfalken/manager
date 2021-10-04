@@ -33,7 +33,7 @@ You can disagree with me and I will sometimes disagree with you. But I am also v
 
 **Fight for your interests.** I will do my best to advocate for you with the rest of the company. You may not hear about it, but I will always help your opinion be heard in front of others even if I disagreed with you.
 
-**Help you grow your career.** I will try to find the best organization, the best projects, the best trainings to help you grow your skills. What matters to me is what you can bring to the team, and what I can bring to you during your career at Blablacar and beyond.
+**Help you grow your career.** I will try to find the best organization, the best projects, the best trainings to help you grow your skills. What matters to me is what you can bring to the team, and what I can bring to you during your career here and beyond.
 
 ## My personal flaws 
 I’m a very enthusiast person and I may be over-enthusiast sometimes. I can be hyperbolic but it’s almost always because I am excited about the topic. I also swear sometimes. Sorry.
